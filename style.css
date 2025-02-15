@@ -52,7 +52,7 @@ section {
 }
 
 .navbar a {
-    font-size: 18px;
+    font-size: 14px;
     color: var(--text-color);
     margin-left: 4rem;
     font-weight: bold;
@@ -272,11 +272,11 @@ span {
     color: #61e0e0;
     font-size: 32px;
     font-weight: bolder;
-    margin-bottom: 30px;
+/*     margin-bottom: 30px; */
     animation: slideInLeft 1.9s ease-in-out forwards;
 }
 .about-content h3 {
-    margin-top: 12px;
+/*     margin-top: 12px; */
     font-weight: bold;
     color: Yellow;
     font-size: 20px;
@@ -296,7 +296,7 @@ span {
 }
 
 #services {
-    scroll-margin-top: 80px; /* Adjust based on your navbar height */
+    scroll-margin-top: 80px; 
 }
 .services {
     text-align: center;
